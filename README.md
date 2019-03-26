@@ -9,4 +9,8 @@ Steps for using this extension:
 6. Now close the tab and then reopen the tab.
 7. Voila! Now you can watch it again.
 
+If any queries, hit me up on twitter: @billagasm
+
+When was the last time you did something for the first time? ;)
+
 
